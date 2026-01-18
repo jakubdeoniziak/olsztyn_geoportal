@@ -1,0 +1,7 @@
+[general]
+name=Geoportal Olsztyn
+description=Wtyczka do pobierania danych z Geoportalu Olsztyna
+version=1.0
+qgisMinimumVersion=3.0
+author=Jakub
+email=twoj@email.com
